@@ -70,6 +70,11 @@ Start the server with streamlit
   streamlit run app.py
 ```
 
+## 🧠 Local Database
+***
+Note: I have used tied a sample database in this repo name "sample.db" about a company's sales, customer and products. So, check the database using SQLite command and also you can add your database by replacing the database in database.py file
+***
+
 
 ## 🎮 Usage
 

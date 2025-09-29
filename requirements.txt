@@ -1,0 +1,7 @@
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langgraph
+python-dotenv
+numpy
